@@ -1,0 +1,4 @@
+﻿  PDS_LAB_7.cpp
+D:\РОБОТИ ПДС\PDS_LAB_7\PDS_LAB_7\PDS_LAB_7.cpp(42,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\РОБОТИ ПДС\PDS_LAB_7\PDS_LAB_7\PDS_LAB_7.cpp(91,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  PDS_LAB_7.vcxproj -> D:\РОБОТИ ПДС\PDS_LAB_7\x64\Debug\PDS_LAB_7.exe
